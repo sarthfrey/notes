@@ -25,8 +25,7 @@ $$
 \lim_{n \to \infty} \lim_{p \to 0} BIN(n,p) = \lim_{n \to \infty} \lim_{p \to 0} {n \choose x}(p)^x(1-p)^{n-x} \\
 = \lim_{n \to \infty} \lim_{p \to 0} \frac{n(n-1)...(n-x+1)}{x!}(\frac{\lambda}{n})^x(1-\frac{\lambda}{n})^{n-x} \\
 = \lim_{n \to \infty} \lim_{p \to 0} \frac{n(n-1)...(n-x+1)}{n^x}\frac{\lambda^x}{x!}\frac{(1-\frac{\lambda}{n})^{n}}{(1-\frac{\lambda}{n})^{x}} \\
-= \frac{\lambda^x}{x!}\frac{e^{-\lambda}}{e^{x}} \\
-= \frac{\lambda^x}{x!}e^{-\lambda x} \\
+= \frac{\lambda^x}{x!}e^{-\lambda} \\
 \lambda = np \implies \lim_{n \to \infty} \lim_{p \to 0} BIN(n,p) = POI(\lambda)
 $$
 

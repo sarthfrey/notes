@@ -20,4 +20,28 @@
   - Ordinal, ex. small, medium, large
   - Complex, ex. unstructured text
 
-  
+
+## Day 2
+
+* A *sample survey* is where information is obtained about a finite population
+* An *observational study* is where information about the population is conducted without interfering with the observed phenomena
+* In contrast, an *experimental study* is where we change something with the phenomena
+* A sample survey still "interferes" by directly querying data from the units of the population
+* An observtional study often involves the data being collected over time, whereas a sample survey often only has one point of contact
+* Don't always jump to graphical summaries! 
+
+**Types of numeric measures**
+
+Measures of location:
+
+- Median
+- Mean
+- Mode
+
+Measures of variability:
+
+- Sample variance
+- Sample standard deviation
+- Quantiles
+- Interquartile range (distance between 1st and 3rd quartile)
+
